@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Staatsxc
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram 081388900517 @Alexandergreateine
 
